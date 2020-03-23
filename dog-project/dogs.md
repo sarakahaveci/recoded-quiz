@@ -8,3 +8,5 @@
 7. Chihuahua
 Alaskan Malamute
 “Golden Retriever
+Rottweiler
+Rottweiler
